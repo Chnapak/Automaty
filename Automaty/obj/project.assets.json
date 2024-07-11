@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matej\\source\\repos\\Automaty\\Automaty\\Automaty.csproj",
+      "projectUniqueName": "C:\\Users\\matej\\source\\repos\\C#Practice\\Automaty\\Automaty\\Automaty.csproj",
       "projectName": "Automaty",
-      "projectPath": "C:\\Users\\matej\\source\\repos\\Automaty\\Automaty\\Automaty.csproj",
+      "projectPath": "C:\\Users\\matej\\source\\repos\\C#Practice\\Automaty\\Automaty\\Automaty.csproj",
       "packagesPath": "C:\\Users\\matej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matej\\source\\repos\\Automaty\\Automaty\\obj\\",
+      "outputPath": "C:\\Users\\matej\\source\\repos\\C#Practice\\Automaty\\Automaty\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
